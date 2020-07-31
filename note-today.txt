@@ -6,8 +6,9 @@ https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/
 read today:
 https://blog.bitsrc.io/revolutionizing-micro-frontends-with-webpack-5-module-federation-and-bit-99ff81ceb0
 
-30/07/2020
-- 1: install postgreSQL
+31/07/2020
+- 1: learn postgreSQL
 - 2: try authentication feature with nodeJS, postgreSQL
 - 3: research send mail system with nodeJS
+- 4: learn mongoDB
 
